@@ -60,3 +60,6 @@ namespace RazorwebTest
         }
     }
 }
+/*
+ dotnet aspnet-codegenerator razorpage -p razorwebtest -m RazorwebTest.Models.Article -dc RazorwebTest.Models.MyBlogContext -outDir Pages/Blog --referenceScriptLibraries
+ */
